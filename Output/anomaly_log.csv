@@ -1,0 +1,1451 @@
+timestamp,value,stat_anomaly,if_anomaly,alert_reason
+2014-05-14 01:14:00,85.835,True,True,Critical: Both methods flagged
+2014-05-14 01:19:00,88.167,True,True,Critical: Both methods flagged
+2014-05-14 04:04:00,71.10600000000002,True,False,Warning: Statistical threshold
+2014-05-14 21:14:00,73.229,True,False,Warning: Statistical threshold
+2014-05-15 17:29:00,72.835,True,False,Warning: Statistical threshold
+2014-05-16 21:14:00,72.949,True,False,Warning: Statistical threshold
+2014-05-16 21:19:00,100.0,True,True,Critical: Both methods flagged
+2014-05-16 23:09:00,72.385,True,False,Warning: Statistical threshold
+2014-05-17 00:09:00,73.109,True,False,Warning: Statistical threshold
+2014-05-17 03:09:00,72.555,True,False,Warning: Statistical threshold
+2014-05-17 04:09:00,71.72399999999998,True,False,Warning: Statistical threshold
+2014-05-17 06:09:00,72.587,True,False,Warning: Statistical threshold
+2014-05-17 08:09:00,72.278,True,False,Warning: Statistical threshold
+2014-05-17 09:09:00,72.999,True,False,Warning: Statistical threshold
+2014-05-17 10:09:00,72.714,True,False,Warning: Statistical threshold
+2014-05-17 11:09:00,72.945,True,False,Warning: Statistical threshold
+2014-05-17 12:09:00,72.83,True,False,Warning: Statistical threshold
+2014-05-17 13:09:00,71.671,True,False,Warning: Statistical threshold
+2014-05-17 14:09:00,73.166,True,False,Warning: Statistical threshold
+2014-05-17 15:09:00,71.949,True,False,Warning: Statistical threshold
+2014-05-17 16:09:00,71.816,True,False,Warning: Statistical threshold
+2014-05-17 17:09:00,72.49600000000002,True,False,Warning: Statistical threshold
+2014-05-17 18:09:00,72.718,True,False,Warning: Statistical threshold
+2014-05-17 19:09:00,72.64699999999998,True,False,Warning: Statistical threshold
+2014-05-17 20:09:00,73.437,True,False,Warning: Statistical threshold
+2014-05-17 21:09:00,71.38600000000002,True,False,Warning: Statistical threshold
+2014-05-17 22:09:00,72.949,True,False,Warning: Statistical threshold
+2014-05-17 23:09:00,71.334,True,False,Warning: Statistical threshold
+2014-05-18 00:09:00,72.50399999999998,True,False,Warning: Statistical threshold
+2014-05-18 01:09:00,73.833,True,False,Warning: Statistical threshold
+2014-05-18 02:09:00,72.167,True,False,Warning: Statistical threshold
+2014-05-18 03:09:00,73.218,True,False,Warning: Statistical threshold
+2014-05-18 04:09:00,72.834,True,False,Warning: Statistical threshold
+2014-05-18 05:09:00,73.118,True,False,Warning: Statistical threshold
+2014-05-18 06:09:00,79.333,True,True,Critical: Both methods flagged
+2014-05-18 07:09:00,86.78399999999998,True,True,Critical: Both methods flagged
+2014-05-18 08:09:00,72.809,True,False,Warning: Statistical threshold
+2014-05-18 09:09:00,80.053,True,True,Critical: Both methods flagged
+2014-05-18 10:09:00,86.053,True,True,Critical: Both methods flagged
+2014-05-18 11:09:00,79.72,True,True,Critical: Both methods flagged
+2014-05-18 12:09:00,86.11,True,True,Critical: Both methods flagged
+2014-05-18 13:09:00,79.446,True,True,Critical: Both methods flagged
+2014-05-18 14:09:00,79.0,True,True,Critical: Both methods flagged
+2014-05-18 15:09:00,78.367,True,False,Warning: Statistical threshold
+2014-05-18 16:09:00,86.051,True,True,Critical: Both methods flagged
+2014-05-18 17:09:00,86.28200000000002,True,True,Critical: Both methods flagged
+2014-05-18 18:09:00,85.37299999999998,True,True,Critical: Both methods flagged
+2014-05-18 19:09:00,86.834,True,True,Critical: Both methods flagged
+2014-05-18 20:09:00,85.20100000000002,True,True,Critical: Both methods flagged
+2014-05-18 21:09:00,86.271,True,True,Critical: Both methods flagged
+2014-05-18 22:09:00,86.21799999999998,True,True,Critical: Both methods flagged
+2014-05-18 23:09:00,86.334,True,True,Critical: Both methods flagged
+2014-05-19 00:09:00,86.118,True,True,Critical: Both methods flagged
+2014-05-19 01:09:00,86.333,True,True,Critical: Both methods flagged
+2014-05-19 02:09:00,85.834,True,True,Critical: Both methods flagged
+2014-05-19 03:09:00,87.167,True,True,Critical: Both methods flagged
+2014-05-19 04:09:00,86.384,True,True,Critical: Both methods flagged
+2014-05-19 05:09:00,85.618,True,True,Critical: Both methods flagged
+2014-05-19 06:09:00,86.271,True,True,Critical: Both methods flagged
+2014-05-19 07:09:00,86.723,True,True,Critical: Both methods flagged
+2014-05-19 08:09:00,85.833,True,True,Critical: Both methods flagged
+2014-05-19 09:09:00,86.333,True,True,Critical: Both methods flagged
+2014-05-19 10:09:00,86.118,True,True,Critical: Both methods flagged
+2014-05-19 11:09:00,86.387,True,True,Critical: Both methods flagged
+2014-05-19 12:09:00,86.5,True,True,Critical: Both methods flagged
+2014-05-19 13:09:00,92.833,True,True,Critical: Both methods flagged
+2014-05-19 14:09:00,92.881,True,True,Critical: Both methods flagged
+2014-05-19 15:09:00,93.0,True,True,Critical: Both methods flagged
+2014-05-19 16:09:00,93.333,True,True,Critical: Both methods flagged
+2014-05-19 17:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-19 18:09:00,93.22,True,True,Critical: Both methods flagged
+2014-05-19 19:09:00,93.0,True,True,Critical: Both methods flagged
+2014-05-19 20:09:00,93.0,True,True,Critical: Both methods flagged
+2014-05-19 21:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-19 22:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 00:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 01:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 02:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 03:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 04:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 05:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 06:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 07:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 08:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 09:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 10:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 11:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 12:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 13:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 14:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 15:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 16:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 17:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 18:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 19:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 20:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 21:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 22:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-20 23:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 00:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 01:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 02:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 03:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 04:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 05:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 06:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 07:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 08:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 09:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 10:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 11:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 12:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 13:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 14:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 15:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 16:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 17:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 18:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 19:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 20:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 21:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 22:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-21 23:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 00:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 01:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 02:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 03:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 04:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 05:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 06:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 07:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 08:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 09:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 10:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 11:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 12:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 13:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 15:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 16:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 17:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 18:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 19:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 20:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 21:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 22:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-22 23:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 00:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 01:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 02:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 03:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 04:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 05:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 06:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 07:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 08:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 09:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 10:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 11:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 12:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 13:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 14:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 15:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 16:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 16:14:00,70.937,True,False,Warning: Statistical threshold
+2014-05-23 17:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 18:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 18:14:00,72.598,True,False,Warning: Statistical threshold
+2014-05-23 19:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 20:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 20:14:00,72.335,True,False,Warning: Statistical threshold
+2014-05-23 20:59:00,72.613,True,False,Warning: Statistical threshold
+2014-05-23 21:04:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 21:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-23 21:14:00,85.887,True,True,Critical: Both methods flagged
+2014-05-23 21:19:00,79.4755,True,True,Critical: Both methods flagged
+2014-05-27 02:09:00,73.429,True,False,Warning: Statistical threshold
+2014-05-27 05:09:00,72.834,True,False,Warning: Statistical threshold
+2014-05-27 07:09:00,72.668,True,False,Warning: Statistical threshold
+2014-05-27 10:09:00,72.472,True,False,Warning: Statistical threshold
+2014-05-27 12:09:00,72.053,True,False,Warning: Statistical threshold
+2014-05-27 13:09:00,71.666,True,False,Warning: Statistical threshold
+2014-05-27 14:09:00,71.667,True,False,Warning: Statistical threshold
+2014-05-27 15:09:00,72.667,True,False,Warning: Statistical threshold
+2014-05-27 16:09:00,72.613,True,False,Warning: Statistical threshold
+2014-05-27 17:09:00,72.505,True,False,Warning: Statistical threshold
+2014-05-27 18:09:00,71.834,True,False,Warning: Statistical threshold
+2014-05-27 19:09:00,73.003,True,False,Warning: Statistical threshold
+2014-05-27 20:09:00,73.5,True,False,Warning: Statistical threshold
+2014-05-27 21:09:00,73.157,True,False,Warning: Statistical threshold
+2014-05-27 22:09:00,74.429,True,False,Warning: Statistical threshold
+2014-05-27 23:09:00,72.5,True,False,Warning: Statistical threshold
+2014-05-28 00:09:00,73.334,True,False,Warning: Statistical threshold
+2014-05-28 01:09:00,71.834,True,False,Warning: Statistical threshold
+2014-05-28 02:09:00,72.166,True,False,Warning: Statistical threshold
+2014-05-28 03:09:00,72.94800000000002,True,False,Warning: Statistical threshold
+2014-05-28 04:09:00,73.818,True,False,Warning: Statistical threshold
+2014-05-28 05:09:00,73.167,True,False,Warning: Statistical threshold
+2014-05-28 06:09:00,73.667,True,False,Warning: Statistical threshold
+2014-05-28 07:09:00,79.667,True,True,Critical: Both methods flagged
+2014-05-28 08:09:00,78.782,True,True,Critical: Both methods flagged
+2014-05-28 09:09:00,71.926,True,False,Warning: Statistical threshold
+2014-05-28 10:09:00,85.5,True,True,Critical: Both methods flagged
+2014-05-28 11:09:00,81.107,True,True,Critical: Both methods flagged
+2014-05-28 12:09:00,79.501,True,True,Critical: Both methods flagged
+2014-05-28 13:09:00,73.667,True,False,Warning: Statistical threshold
+2014-05-28 14:09:00,79.167,True,True,Critical: Both methods flagged
+2014-05-28 15:09:00,79.942,True,True,Critical: Both methods flagged
+2014-05-28 16:09:00,73.666,True,False,Warning: Statistical threshold
+2014-05-28 17:09:00,86.28200000000002,True,True,Critical: Both methods flagged
+2014-05-28 18:09:00,86.387,True,True,Critical: Both methods flagged
+2014-05-28 19:09:00,86.0,True,True,Critical: Both methods flagged
+2014-05-28 20:09:00,86.28200000000002,True,True,Critical: Both methods flagged
+2014-05-28 21:09:00,85.5,True,True,Critical: Both methods flagged
+2014-05-28 22:09:00,87.274,True,True,Critical: Both methods flagged
+2014-05-28 23:09:00,87.431,True,True,Critical: Both methods flagged
+2014-05-29 00:09:00,87.667,True,True,Critical: Both methods flagged
+2014-05-29 01:09:00,86.167,True,True,Critical: Both methods flagged
+2014-05-29 02:09:00,85.833,True,True,Critical: Both methods flagged
+2014-05-29 03:09:00,86.28200000000002,True,True,Critical: Both methods flagged
+2014-05-29 04:09:00,86.334,True,True,Critical: Both methods flagged
+2014-05-29 05:09:00,86.167,True,True,Critical: Both methods flagged
+2014-05-29 06:09:00,86.381,True,True,Critical: Both methods flagged
+2014-05-29 07:09:00,86.334,True,True,Critical: Both methods flagged
+2014-05-29 08:09:00,85.833,True,True,Critical: Both methods flagged
+2014-05-29 09:09:00,86.5,True,True,Critical: Both methods flagged
+2014-05-29 10:09:00,86.5,True,True,Critical: Both methods flagged
+2014-05-29 11:09:00,85.709,True,True,Critical: Both methods flagged
+2014-05-29 12:09:00,84.02799999999998,True,True,Critical: Both methods flagged
+2014-05-29 13:09:00,86.167,True,True,Critical: Both methods flagged
+2014-05-29 14:09:00,86.834,True,True,Critical: Both methods flagged
+2014-05-29 15:09:00,86.5,True,True,Critical: Both methods flagged
+2014-05-29 16:09:00,92.833,True,True,Critical: Both methods flagged
+2014-05-29 17:09:00,93.167,True,True,Critical: Both methods flagged
+2014-05-29 18:09:00,93.5,True,True,Critical: Both methods flagged
+2014-05-29 19:09:00,93.167,True,True,Critical: Both methods flagged
+2014-05-29 20:09:00,87.167,True,True,Critical: Both methods flagged
+2014-05-29 21:09:00,93.5,True,True,Critical: Both methods flagged
+2014-05-29 22:09:00,92.833,True,True,Critical: Both methods flagged
+2014-05-29 23:09:00,93.333,True,True,Critical: Both methods flagged
+2014-05-29 23:59:00,71.874,True,False,Warning: Statistical threshold
+2014-05-30 00:04:00,100.0,True,True,Critical: Both methods flagged
+2014-05-30 00:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-30 00:14:00,82.77799999999998,True,True,Critical: Both methods flagged
+2014-05-30 01:09:00,72.166,True,False,Warning: Statistical threshold
+2014-05-30 02:09:00,72.12,True,False,Warning: Statistical threshold
+2014-05-30 03:09:00,100.0,True,True,Critical: Both methods flagged
+2014-05-30 04:09:00,72.505,True,False,Warning: Statistical threshold
+2014-05-30 05:09:00,72.12100000000002,True,False,Warning: Statistical threshold
+2014-05-30 06:09:00,72.39,True,False,Warning: Statistical threshold
+2014-05-30 07:09:00,72.007,True,False,Warning: Statistical threshold
+2014-05-30 08:09:00,72.559,True,False,Warning: Statistical threshold
+2014-05-30 09:09:00,72.168,True,False,Warning: Statistical threshold
+2014-05-30 10:09:00,72.39,True,False,Warning: Statistical threshold
+2014-05-30 11:09:00,78.833,True,False,Warning: Statistical threshold
+2014-05-30 12:09:00,72.28399999999998,True,False,Warning: Statistical threshold
+2014-05-30 13:09:00,71.83800000000002,True,False,Warning: Statistical threshold
+2014-05-30 14:09:00,78.499,True,False,Warning: Statistical threshold
+2014-05-30 15:09:00,72.005,True,False,Warning: Statistical threshold
+2014-05-30 16:09:00,71.95,True,False,Warning: Statistical threshold
+2014-05-30 17:09:00,78.78399999999998,True,True,Critical: Both methods flagged
+2014-05-30 18:09:00,72.165,True,False,Warning: Statistical threshold
+2014-05-30 19:09:00,78.78699999999998,True,True,Critical: Both methods flagged
+2014-05-30 21:09:00,71.999,True,False,Warning: Statistical threshold
+2014-05-30 22:09:00,79.502,True,True,Critical: Both methods flagged
+2014-05-31 00:09:00,72.167,True,False,Warning: Statistical threshold
+2014-05-31 01:09:00,71.833,True,False,Warning: Statistical threshold
+2014-05-31 02:09:00,79.22,True,True,Critical: Both methods flagged
+2014-05-31 03:09:00,78.501,True,False,Warning: Statistical threshold
+2014-05-31 04:09:00,79.28699999999998,True,True,Critical: Both methods flagged
+2014-05-31 05:09:00,78.666,True,False,Warning: Statistical threshold
+2014-05-31 06:09:00,78.833,True,False,Warning: Statistical threshold
+2014-05-31 08:09:00,79.053,True,True,Critical: Both methods flagged
+2014-05-31 09:09:00,78.94800000000002,True,True,Critical: Both methods flagged
+2014-05-31 10:09:00,78.835,True,False,Warning: Statistical threshold
+2014-05-31 11:09:00,79.047,True,True,Critical: Both methods flagged
+2014-05-31 12:09:00,78.714,True,True,Critical: Both methods flagged
+2014-05-31 13:09:00,72.546,True,False,Warning: Statistical threshold
+2014-05-31 14:09:00,78.714,True,True,Critical: Both methods flagged
+2014-05-31 15:09:00,78.714,True,True,Critical: Both methods flagged
+2014-05-31 16:09:00,72.225,True,False,Warning: Statistical threshold
+2014-05-31 17:09:00,78.671,True,True,Critical: Both methods flagged
+2014-05-31 18:09:00,79.281,True,True,Critical: Both methods flagged
+2014-05-31 20:09:00,78.94800000000002,True,True,Critical: Both methods flagged
+2014-05-31 21:09:00,79.167,True,True,Critical: Both methods flagged
+2014-05-31 22:09:00,86.167,True,True,Critical: Both methods flagged
+2014-05-31 23:09:00,78.83800000000002,True,False,Warning: Statistical threshold
+2014-06-01 00:09:00,78.884,True,True,Critical: Both methods flagged
+2014-06-01 01:09:00,79.005,True,True,Critical: Both methods flagged
+2014-06-01 03:09:00,79.0,True,True,Critical: Both methods flagged
+2014-06-01 04:09:00,78.714,True,True,Critical: Both methods flagged
+2014-06-01 05:09:00,86.0,True,True,Critical: Both methods flagged
+2014-06-01 06:09:00,78.714,True,True,Critical: Both methods flagged
+2014-06-01 07:09:00,85.833,True,True,Critical: Both methods flagged
+2014-06-01 08:09:00,78.833,True,False,Warning: Statistical threshold
+2014-06-01 09:09:00,78.78699999999998,True,True,Critical: Both methods flagged
+2014-06-01 10:09:00,85.833,True,True,Critical: Both methods flagged
+2014-06-01 12:09:00,78.78399999999998,True,True,Critical: Both methods flagged
+2014-06-01 13:09:00,85.95100000000002,True,True,Critical: Both methods flagged
+2014-06-01 14:09:00,85.884,True,True,Critical: Both methods flagged
+2014-06-01 15:09:00,78.833,True,False,Warning: Statistical threshold
+2014-06-01 16:09:00,79.002,True,True,Critical: Both methods flagged
+2014-06-01 17:09:00,86.04799999999999,True,True,Critical: Both methods flagged
+2014-06-01 18:09:00,85.95100000000002,True,True,Critical: Both methods flagged
+2014-06-01 19:09:00,78.789,True,True,Critical: Both methods flagged
+2014-06-01 20:09:00,86.21799999999998,True,True,Critical: Both methods flagged
+2014-06-01 21:09:00,85.95100000000002,True,True,Critical: Both methods flagged
+2014-06-01 22:09:00,79.0,True,True,Critical: Both methods flagged
+2014-06-01 23:09:00,86.334,True,True,Critical: Both methods flagged
+2014-06-02 00:09:00,85.78399999999998,True,True,Critical: Both methods flagged
+2014-06-02 02:09:00,85.833,True,True,Critical: Both methods flagged
+2014-06-02 03:09:00,86.00200000000002,True,True,Critical: Both methods flagged
+2014-06-02 04:09:00,85.833,True,True,Critical: Both methods flagged
+2014-06-02 05:09:00,86.053,True,True,Critical: Both methods flagged
+2014-06-02 06:09:00,86.051,True,True,Critical: Both methods flagged
+2014-06-02 07:09:00,79.118,True,True,Critical: Both methods flagged
+2014-06-02 08:09:00,85.78399999999998,True,True,Critical: Both methods flagged
+2014-06-02 09:09:00,85.787,True,True,Critical: Both methods flagged
+2014-06-02 11:09:00,85.666,True,True,Critical: Both methods flagged
+2014-06-02 12:09:00,85.833,True,True,Critical: Both methods flagged
+2014-06-02 13:09:00,92.833,True,True,Critical: Both methods flagged
+2014-06-02 14:09:00,85.833,True,True,Critical: Both methods flagged
+2014-06-02 15:09:00,86.051,True,True,Critical: Both methods flagged
+2014-06-02 16:09:00,92.833,True,True,Critical: Both methods flagged
+2014-06-02 17:09:00,92.833,True,True,Critical: Both methods flagged
+2014-06-02 18:09:00,86.45100000000002,True,True,Critical: Both methods flagged
+2014-06-02 19:09:00,85.833,True,True,Critical: Both methods flagged
+2014-06-02 20:09:00,86.387,True,True,Critical: Both methods flagged
+2014-06-02 21:09:00,85.714,True,True,Critical: Both methods flagged
+2014-06-02 22:09:00,92.623,True,True,Critical: Both methods flagged
+2014-06-02 23:09:00,92.881,True,True,Critical: Both methods flagged
+2014-06-03 00:09:00,85.66799999999998,True,True,Critical: Both methods flagged
+2014-06-03 01:09:00,92.787,True,True,Critical: Both methods flagged
+2014-06-03 03:09:00,86.051,True,True,Critical: Both methods flagged
+2014-06-03 04:09:00,92.787,True,True,Critical: Both methods flagged
+2014-06-03 05:09:00,92.833,True,True,Critical: Both methods flagged
+2014-06-03 07:09:00,93.0,True,True,Critical: Both methods flagged
+2014-06-03 08:09:00,93.0,True,True,Critical: Both methods flagged
+2014-06-03 10:09:00,85.667,True,True,Critical: Both methods flagged
+2014-06-03 11:09:00,93.0,True,True,Critical: Both methods flagged
+2014-06-03 12:09:00,92.833,True,True,Critical: Both methods flagged
+2014-06-03 13:09:00,92.833,True,True,Critical: Both methods flagged
+2014-06-03 14:09:00,92.833,True,True,Critical: Both methods flagged
+2014-06-03 15:09:00,92.833,True,True,Critical: Both methods flagged
+2014-06-03 16:09:00,93.0,True,True,Critical: Both methods flagged
+2014-06-03 16:59:00,72.72,True,False,Warning: Statistical threshold
+2014-06-03 17:04:00,100.0,True,True,Critical: Both methods flagged
+2014-06-03 17:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-03 17:14:00,74.7538,True,False,Warning: Statistical threshold
+2014-06-03 17:19:00,86.333,True,True,Critical: Both methods flagged
+2014-06-04 16:44:00,71.93,True,False,Warning: Statistical threshold
+2014-06-06 03:09:00,73.833,True,False,Warning: Statistical threshold
+2014-06-06 15:59:00,72.936,True,False,Warning: Statistical threshold
+2014-06-06 16:04:00,100.0,True,True,Critical: Both methods flagged
+2014-06-06 16:09:00,79.0,True,True,Critical: Both methods flagged
+2014-06-06 22:09:00,73.111,True,False,Warning: Statistical threshold
+2014-06-07 00:09:00,73.005,True,False,Warning: Statistical threshold
+2014-06-07 01:09:00,73.165,True,False,Warning: Statistical threshold
+2014-06-07 02:09:00,71.01,True,False,Warning: Statistical threshold
+2014-06-07 03:09:00,73.06,True,False,Warning: Statistical threshold
+2014-06-07 04:09:00,73.833,True,False,Warning: Statistical threshold
+2014-06-07 05:09:00,73.053,True,False,Warning: Statistical threshold
+2014-06-07 06:09:00,72.668,True,False,Warning: Statistical threshold
+2014-06-07 07:09:00,74.434,True,False,Warning: Statistical threshold
+2014-06-07 08:09:00,72.655,True,False,Warning: Statistical threshold
+2014-06-07 09:09:00,72.946,True,False,Warning: Statistical threshold
+2014-06-07 10:09:00,73.167,True,False,Warning: Statistical threshold
+2014-06-07 11:09:00,73.167,True,False,Warning: Statistical threshold
+2014-06-07 12:09:00,72.94,True,False,Warning: Statistical threshold
+2014-06-07 13:09:00,71.304,True,False,Warning: Statistical threshold
+2014-06-07 14:09:00,72.835,True,False,Warning: Statistical threshold
+2014-06-07 15:09:00,72.95100000000002,True,False,Warning: Statistical threshold
+2014-06-07 16:09:00,72.667,True,False,Warning: Statistical threshold
+2014-06-07 17:09:00,81.252,True,True,Critical: Both methods flagged
+2014-06-07 18:09:00,73.003,True,False,Warning: Statistical threshold
+2014-06-07 19:09:00,79.0,True,True,Critical: Both methods flagged
+2014-06-07 20:09:00,78.782,True,True,Critical: Both methods flagged
+2014-06-07 21:09:00,73.333,True,False,Warning: Statistical threshold
+2014-06-07 22:09:00,79.5,True,True,Critical: Both methods flagged
+2014-06-07 23:09:00,72.615,True,False,Warning: Statistical threshold
+2014-06-08 00:09:00,79.615,True,True,Critical: Both methods flagged
+2014-06-08 01:09:00,73.333,True,False,Warning: Statistical threshold
+2014-06-08 02:09:00,80.167,True,True,Critical: Both methods flagged
+2014-06-08 03:09:00,79.107,True,True,Critical: Both methods flagged
+2014-06-08 04:09:00,86.333,True,True,Critical: Both methods flagged
+2014-06-08 05:09:00,79.615,True,True,Critical: Both methods flagged
+2014-06-08 06:09:00,85.833,True,True,Critical: Both methods flagged
+2014-06-08 07:09:00,79.666,True,True,Critical: Both methods flagged
+2014-06-08 08:09:00,86.04799999999999,True,True,Critical: Both methods flagged
+2014-06-08 09:09:00,87.053,True,True,Critical: Both methods flagged
+2014-06-08 10:09:00,86.666,True,True,Critical: Both methods flagged
+2014-06-08 11:09:00,86.334,True,True,Critical: Both methods flagged
+2014-06-08 12:09:00,87.10700000000001,True,True,Critical: Both methods flagged
+2014-06-08 13:09:00,86.115,True,True,Critical: Both methods flagged
+2014-06-08 14:09:00,85.834,True,True,Critical: Both methods flagged
+2014-06-08 15:09:00,86.5,True,True,Critical: Both methods flagged
+2014-06-08 16:09:00,86.115,True,True,Critical: Both methods flagged
+2014-06-08 17:09:00,86.448,True,True,Critical: Both methods flagged
+2014-06-08 18:09:00,85.37,True,True,Critical: Both methods flagged
+2014-06-08 19:09:00,86.0,True,True,Critical: Both methods flagged
+2014-06-08 20:09:00,87.0,True,True,Critical: Both methods flagged
+2014-06-08 21:09:00,85.667,True,True,Critical: Both methods flagged
+2014-06-08 22:09:00,93.167,True,True,Critical: Both methods flagged
+2014-06-08 23:09:00,86.057,True,True,Critical: Both methods flagged
+2014-06-09 00:09:00,86.666,True,True,Critical: Both methods flagged
+2014-06-09 01:09:00,86.167,True,True,Critical: Both methods flagged
+2014-06-09 02:09:00,93.167,True,True,Critical: Both methods flagged
+2014-06-09 03:09:00,94.667,True,True,Critical: Both methods flagged
+2014-06-09 04:09:00,86.448,True,True,Critical: Both methods flagged
+2014-06-09 05:09:00,93.22,True,True,Critical: Both methods flagged
+2014-06-09 06:09:00,86.115,True,True,Critical: Both methods flagged
+2014-06-09 07:09:00,93.167,True,True,Critical: Both methods flagged
+2014-06-09 08:09:00,93.833,True,True,Critical: Both methods flagged
+2014-06-09 09:09:00,93.167,True,True,Critical: Both methods flagged
+2014-06-09 10:09:00,93.167,True,True,Critical: Both methods flagged
+2014-06-09 11:09:00,93.0,True,True,Critical: Both methods flagged
+2014-06-09 12:09:00,93.39,True,True,Critical: Both methods flagged
+2014-06-09 13:09:00,93.333,True,True,Critical: Both methods flagged
+2014-06-09 14:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-09 15:09:00,93.333,True,True,Critical: Both methods flagged
+2014-06-09 16:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-09 17:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-09 18:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-09 19:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-09 20:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-09 21:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-09 22:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-09 23:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 00:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 01:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 02:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 03:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 04:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 05:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 06:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 07:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 08:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 09:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 10:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 11:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 12:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 13:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 14:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 15:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 16:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 17:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 18:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 19:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 20:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 20:29:00,74.058,True,False,Warning: Statistical threshold
+2014-06-10 20:34:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 20:39:00,93.0,True,True,Critical: Both methods flagged
+2014-06-10 20:44:00,72.94800000000002,True,False,Warning: Statistical threshold
+2014-06-10 20:49:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 20:54:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 21:09:00,92.9165,True,True,Critical: Both methods flagged
+2014-06-10 22:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-10 23:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-11 00:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-11 01:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-11 02:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-11 03:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-11 04:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-11 05:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-11 06:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-11 07:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-11 08:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-11 09:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-11 10:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-11 11:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-11 12:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-11 13:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-11 14:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-11 15:09:00,92.667,True,True,Critical: Both methods flagged
+2014-06-11 21:29:00,74.146,True,False,Warning: Statistical threshold
+2014-06-11 21:44:00,86.334,True,True,Critical: Both methods flagged
+2014-06-11 22:09:00,72.944,True,False,Warning: Statistical threshold
+2014-06-12 01:09:00,73.0,True,False,Warning: Statistical threshold
+2014-06-12 03:09:00,72.99600000000002,True,False,Warning: Statistical threshold
+2014-06-12 04:09:00,73.65899999999998,True,False,Warning: Statistical threshold
+2014-06-12 05:09:00,72.33800000000002,True,False,Warning: Statistical threshold
+2014-06-12 06:09:00,73.259,True,False,Warning: Statistical threshold
+2014-06-12 07:09:00,72.587,True,False,Warning: Statistical threshold
+2014-06-12 08:09:00,74.167,True,False,Warning: Statistical threshold
+2014-06-12 09:09:00,73.32300000000002,True,False,Warning: Statistical threshold
+2014-06-12 10:09:00,73.167,True,False,Warning: Statistical threshold
+2014-06-12 11:09:00,73.83,True,False,Warning: Statistical threshold
+2014-06-12 12:09:00,73.167,True,False,Warning: Statistical threshold
+2014-06-12 13:09:00,73.505,True,False,Warning: Statistical threshold
+2014-06-12 14:09:00,72.836,True,False,Warning: Statistical threshold
+2014-06-12 15:09:00,73.001,True,False,Warning: Statistical threshold
+2014-06-12 16:09:00,73.667,True,False,Warning: Statistical threshold
+2014-06-12 17:09:00,80.167,True,True,Critical: Both methods flagged
+2014-06-12 18:09:00,73.169,True,False,Warning: Statistical threshold
+2014-06-12 19:09:00,72.333,True,False,Warning: Statistical threshold
+2014-06-12 20:09:00,73.333,True,False,Warning: Statistical threshold
+2014-06-12 21:09:00,73.04,True,False,Warning: Statistical threshold
+2014-06-12 22:09:00,73.0,True,False,Warning: Statistical threshold
+2014-06-12 23:09:00,72.446,True,False,Warning: Statistical threshold
+2014-06-13 00:09:00,73.336,True,False,Warning: Statistical threshold
+2014-06-13 01:09:00,72.946,True,False,Warning: Statistical threshold
+2014-06-13 02:09:00,73.5,True,False,Warning: Statistical threshold
+2014-06-13 03:09:00,74.267,True,False,Warning: Statistical threshold
+2014-06-13 04:09:00,75.048,True,False,Warning: Statistical threshold
+2014-06-13 05:09:00,79.16,True,True,Critical: Both methods flagged
+2014-06-13 06:09:00,73.486,True,False,Warning: Statistical threshold
+2014-06-13 07:09:00,73.834,True,False,Warning: Statistical threshold
+2014-06-13 08:09:00,79.327,True,True,Critical: Both methods flagged
+2014-06-13 09:09:00,80.166,True,True,Critical: Both methods flagged
+2014-06-13 10:09:00,80.667,True,True,Critical: Both methods flagged
+2014-06-13 11:09:00,79.501,True,True,Critical: Both methods flagged
+2014-06-13 12:09:00,80.001,True,True,Critical: Both methods flagged
+2014-06-13 13:09:00,79.61399999999998,True,True,Critical: Both methods flagged
+2014-06-13 14:09:00,79.554,True,True,Critical: Both methods flagged
+2014-06-13 15:09:00,79.833,True,True,Critical: Both methods flagged
+2014-06-13 16:09:00,78.708,True,True,Critical: Both methods flagged
+2014-06-13 17:09:00,80.167,True,True,Critical: Both methods flagged
+2014-06-13 18:09:00,79.994,True,True,Critical: Both methods flagged
+2014-06-13 19:09:00,80.33800000000002,True,True,Critical: Both methods flagged
+2014-06-13 20:09:00,80.115,True,True,Critical: Both methods flagged
+2014-06-13 21:09:00,79.833,True,True,Critical: Both methods flagged
+2014-06-13 22:09:00,78.666,True,False,Warning: Statistical threshold
+2014-06-13 23:09:00,79.324,True,True,Critical: Both methods flagged
+2014-06-14 00:09:00,79.999,True,True,Critical: Both methods flagged
+2014-06-14 01:09:00,79.166,True,True,Critical: Both methods flagged
+2014-06-14 02:09:00,79.502,True,True,Critical: Both methods flagged
+2014-06-14 03:09:00,91.4587,True,True,Critical: Both methods flagged
+2014-06-14 03:14:00,79.88600000000002,True,True,Critical: Both methods flagged
+2014-06-14 19:59:00,72.934,True,False,Warning: Statistical threshold
+2014-06-14 20:04:00,79.887,True,True,Critical: Both methods flagged
+2014-06-14 20:09:00,82.0993,True,True,Critical: Both methods flagged
+2014-06-14 20:24:00,77.0767,True,False,Warning: Statistical threshold
+2014-06-14 20:39:00,77.334,True,False,Warning: Statistical threshold
+2014-06-17 20:09:00,72.214,True,False,Warning: Statistical threshold
+2014-06-17 22:09:00,72.62,True,False,Warning: Statistical threshold
+2014-06-18 00:09:00,72.79,True,False,Warning: Statistical threshold
+2014-06-18 02:09:00,72.334,True,False,Warning: Statistical threshold
+2014-06-18 03:09:00,71.714,True,False,Warning: Statistical threshold
+2014-06-18 05:09:00,72.12,True,False,Warning: Statistical threshold
+2014-06-18 05:44:00,73.28399999999998,True,False,Warning: Statistical threshold
+2014-06-18 05:49:00,93.0,True,True,Critical: Both methods flagged
+2014-06-18 05:59:00,72.722,True,False,Warning: Statistical threshold
+2014-06-18 06:04:00,100.0,True,True,Critical: Both methods flagged
+2014-06-18 06:09:00,72.333,True,False,Warning: Statistical threshold
+2014-06-18 08:09:00,71.999,True,False,Warning: Statistical threshold
+2014-06-18 11:09:00,70.832,True,False,Warning: Statistical threshold
+2014-06-18 12:09:00,71.453,True,False,Warning: Statistical threshold
+2014-06-18 13:09:00,78.999,True,True,Critical: Both methods flagged
+2014-06-18 14:09:00,71.953,True,False,Warning: Statistical threshold
+2014-06-18 15:09:00,79.215,True,True,Critical: Both methods flagged
+2014-06-18 17:09:00,78.547,True,False,Warning: Statistical threshold
+2014-06-18 19:09:00,79.123,True,True,Critical: Both methods flagged
+2014-06-18 20:09:00,72.437,True,False,Warning: Statistical threshold
+2014-06-18 21:09:00,79.0,True,True,Critical: Both methods flagged
+2014-06-18 22:09:00,78.715,True,True,Critical: Both methods flagged
+2014-06-18 23:09:00,78.78699999999998,True,True,Critical: Both methods flagged
+2014-06-19 00:09:00,79.051,True,True,Critical: Both methods flagged
+2014-06-19 02:09:00,78.833,True,False,Warning: Statistical threshold
+2014-06-19 05:09:00,78.717,True,True,Critical: Both methods flagged
+2014-06-19 06:09:00,86.0,True,True,Critical: Both methods flagged
+2014-06-19 08:09:00,85.833,True,True,Critical: Both methods flagged
+2014-06-19 11:09:00,78.999,True,True,Critical: Both methods flagged
+2014-06-19 12:09:00,85.545,True,True,Critical: Both methods flagged
+2014-06-19 13:09:00,85.833,True,True,Critical: Both methods flagged
+2014-06-19 14:09:00,79.333,True,True,Critical: Both methods flagged
+2014-06-19 15:09:00,87.0,True,True,Critical: Both methods flagged
+2014-06-19 17:09:00,86.0,True,True,Critical: Both methods flagged
+2014-06-19 18:09:00,86.0,True,True,Critical: Both methods flagged
+2014-06-19 22:09:00,86.0,True,True,Critical: Both methods flagged
+2014-06-19 23:09:00,86.12,True,True,Critical: Both methods flagged
+2014-06-20 00:09:00,85.833,True,True,Critical: Both methods flagged
+2014-06-20 01:09:00,86.12,True,True,Critical: Both methods flagged
+2014-06-20 02:09:00,86.333,True,True,Critical: Both methods flagged
+2014-06-20 03:09:00,85.948,True,True,Critical: Both methods flagged
+2014-06-20 05:09:00,86.0,True,True,Critical: Both methods flagged
+2014-06-20 07:09:00,86.0,True,True,Critical: Both methods flagged
+2014-06-20 09:09:00,92.833,True,True,Critical: Both methods flagged
+2014-06-20 12:09:00,86.833,True,True,Critical: Both methods flagged
+2014-06-20 14:09:00,92.833,True,True,Critical: Both methods flagged
+2014-06-20 15:09:00,92.833,True,True,Critical: Both methods flagged
+2014-06-20 16:09:00,92.833,True,True,Critical: Both methods flagged
+2014-06-20 19:09:00,92.833,True,True,Critical: Both methods flagged
+2014-06-20 19:29:00,73.333,True,False,Warning: Statistical threshold
+2014-06-20 19:34:00,100.0,True,True,Critical: Both methods flagged
+2014-06-20 20:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-20 21:09:00,92.833,True,True,Critical: Both methods flagged
+2014-06-20 23:09:00,92.833,True,True,Critical: Both methods flagged
+2014-06-21 00:09:00,92.833,True,True,Critical: Both methods flagged
+2014-06-21 01:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-21 03:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-21 04:09:00,92.833,True,True,Critical: Both methods flagged
+2014-06-21 05:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-21 06:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-21 07:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-21 08:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-21 10:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-21 13:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-21 14:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-21 15:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-21 16:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-21 17:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-21 18:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-21 19:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-21 21:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-21 22:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-21 23:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-22 00:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-22 02:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-22 03:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-22 04:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-22 05:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-22 06:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-22 07:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-22 09:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-22 11:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-22 12:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-22 13:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-22 14:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-22 15:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-22 16:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-22 17:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-22 18:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-22 20:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-22 21:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-22 22:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-22 23:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-23 00:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-23 01:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-23 03:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-23 04:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-23 05:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-23 07:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-23 08:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-23 10:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-23 11:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-23 12:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-23 13:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-23 14:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-23 15:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-23 16:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-23 17:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-23 18:59:00,72.163,True,False,Warning: Statistical threshold
+2014-06-23 19:04:00,100.0,True,True,Critical: Both methods flagged
+2014-06-23 19:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-23 22:04:00,72.715,True,False,Warning: Statistical threshold
+2014-06-24 13:09:00,73.334,True,False,Warning: Statistical threshold
+2014-06-24 15:09:00,69.666,True,False,Warning: Statistical threshold
+2014-06-24 20:09:00,73.0,True,False,Warning: Statistical threshold
+2014-06-24 21:09:00,73.167,True,False,Warning: Statistical threshold
+2014-06-24 22:09:00,73.0,True,False,Warning: Statistical threshold
+2014-06-25 00:09:00,72.167,True,False,Warning: Statistical threshold
+2014-06-25 01:09:00,72.375,True,False,Warning: Statistical threshold
+2014-06-25 03:09:00,72.833,True,False,Warning: Statistical threshold
+2014-06-25 04:09:00,72.666,True,False,Warning: Statistical threshold
+2014-06-25 05:09:00,72.667,True,False,Warning: Statistical threshold
+2014-06-25 07:09:00,73.321,True,False,Warning: Statistical threshold
+2014-06-25 09:09:00,71.373,True,False,Warning: Statistical threshold
+2014-06-25 10:09:00,72.833,True,False,Warning: Statistical threshold
+2014-06-25 11:09:00,73.0,True,False,Warning: Statistical threshold
+2014-06-25 14:09:00,73.132,True,False,Warning: Statistical threshold
+2014-06-25 15:09:00,73.167,True,False,Warning: Statistical threshold
+2014-06-25 16:09:00,72.833,True,False,Warning: Statistical threshold
+2014-06-25 18:09:00,72.334,True,False,Warning: Statistical threshold
+2014-06-25 22:09:00,73.667,True,False,Warning: Statistical threshold
+2014-06-25 23:09:00,73.5,True,False,Warning: Statistical threshold
+2014-06-26 00:09:00,73.167,True,False,Warning: Statistical threshold
+2014-06-26 02:09:00,72.834,True,False,Warning: Statistical threshold
+2014-06-26 03:09:00,80.0,True,True,Critical: Both methods flagged
+2014-06-26 04:09:00,72.33,True,False,Warning: Statistical threshold
+2014-06-26 05:09:00,79.666,True,True,Critical: Both methods flagged
+2014-06-26 06:09:00,73.0,True,False,Warning: Statistical threshold
+2014-06-26 08:09:00,79.5,True,True,Critical: Both methods flagged
+2014-06-26 09:09:00,74.834,True,False,Warning: Statistical threshold
+2014-06-26 10:09:00,79.116,True,True,Critical: Both methods flagged
+2014-06-26 11:09:00,79.527,True,True,Critical: Both methods flagged
+2014-06-26 12:09:00,79.333,True,True,Critical: Both methods flagged
+2014-06-26 13:09:00,78.166,True,False,Warning: Statistical threshold
+2014-06-26 14:09:00,72.96300000000002,True,False,Warning: Statistical threshold
+2014-06-26 15:09:00,79.615,True,True,Critical: Both methods flagged
+2014-06-26 16:09:00,80.0,True,True,Critical: Both methods flagged
+2014-06-26 17:09:00,79.667,True,True,Critical: Both methods flagged
+2014-06-26 17:29:00,72.97,True,False,Warning: Statistical threshold
+2014-06-26 17:34:00,100.0,True,True,Critical: Both methods flagged
+2014-06-26 18:09:00,79.667,True,True,Critical: Both methods flagged
+2014-06-26 20:09:00,79.499,True,True,Critical: Both methods flagged
+2014-06-26 21:09:00,80.167,True,True,Critical: Both methods flagged
+2014-06-26 22:09:00,80.979,True,True,Critical: Both methods flagged
+2014-06-26 23:09:00,79.615,True,True,Critical: Both methods flagged
+2014-06-27 00:09:00,79.333,True,True,Critical: Both methods flagged
+2014-06-27 01:09:00,79.667,True,True,Critical: Both methods flagged
+2014-06-27 02:09:00,81.107,True,True,Critical: Both methods flagged
+2014-06-27 05:09:00,80.167,True,True,Critical: Both methods flagged
+2014-06-27 06:09:00,79.667,True,True,Critical: Both methods flagged
+2014-06-27 07:09:00,79.351,True,True,Critical: Both methods flagged
+2014-06-27 08:09:00,79.72,True,True,Critical: Both methods flagged
+2014-06-27 11:09:00,79.274,True,True,Critical: Both methods flagged
+2014-06-27 12:09:00,80.5,True,True,Critical: Both methods flagged
+2014-06-27 13:09:00,79.333,True,True,Critical: Both methods flagged
+2014-06-27 14:09:00,86.821,True,True,Critical: Both methods flagged
+2014-06-27 16:09:00,86.333,True,True,Critical: Both methods flagged
+2014-06-27 17:09:00,80.0,True,True,Critical: Both methods flagged
+2014-06-27 18:09:00,86.5,True,True,Critical: Both methods flagged
+2014-06-27 19:09:00,79.833,True,True,Critical: Both methods flagged
+2014-06-27 20:09:00,86.5,True,True,Critical: Both methods flagged
+2014-06-27 21:09:00,86.667,True,True,Critical: Both methods flagged
+2014-06-27 22:09:00,80.167,True,True,Critical: Both methods flagged
+2014-06-28 00:09:00,86.666,True,True,Critical: Both methods flagged
+2014-06-28 02:09:00,85.787,True,True,Critical: Both methods flagged
+2014-06-28 03:09:00,86.14299999999999,True,True,Critical: Both methods flagged
+2014-06-28 05:09:00,85.333,True,True,Critical: Both methods flagged
+2014-06-28 07:09:00,85.833,True,True,Critical: Both methods flagged
+2014-06-28 08:09:00,85.985,True,True,Critical: Both methods flagged
+2014-06-28 09:09:00,86.64,True,True,Critical: Both methods flagged
+2014-06-28 10:09:00,87.334,True,True,Critical: Both methods flagged
+2014-06-28 12:09:00,86.21799999999998,True,True,Critical: Both methods flagged
+2014-06-28 13:09:00,85.02799999999998,True,True,Critical: Both methods flagged
+2014-06-28 15:09:00,86.334,True,True,Critical: Both methods flagged
+2014-06-28 16:09:00,86.334,True,True,Critical: Both methods flagged
+2014-06-28 17:09:00,86.333,True,True,Critical: Both methods flagged
+2014-06-28 18:09:00,86.5,True,True,Critical: Both methods flagged
+2014-06-28 19:09:00,86.334,True,True,Critical: Both methods flagged
+2014-06-28 20:09:00,86.667,True,True,Critical: Both methods flagged
+2014-06-28 21:09:00,86.92299999999999,True,True,Critical: Both methods flagged
+2014-06-28 22:09:00,86.667,True,True,Critical: Both methods flagged
+2014-06-28 23:09:00,87.667,True,True,Critical: Both methods flagged
+2014-06-29 01:09:00,86.279,True,True,Critical: Both methods flagged
+2014-06-29 03:09:00,86.167,True,True,Critical: Both methods flagged
+2014-06-29 04:09:00,93.0,True,True,Critical: Both methods flagged
+2014-06-29 07:09:00,93.0,True,True,Critical: Both methods flagged
+2014-06-29 08:09:00,87.167,True,True,Critical: Both methods flagged
+2014-06-29 09:09:00,93.833,True,True,Critical: Both methods flagged
+2014-06-29 10:09:00,93.333,True,True,Critical: Both methods flagged
+2014-06-29 12:09:00,93.833,True,True,Critical: Both methods flagged
+2014-06-29 14:09:00,93.833,True,True,Critical: Both methods flagged
+2014-06-29 15:09:00,93.607,True,True,Critical: Both methods flagged
+2014-06-29 17:09:00,93.167,True,True,Critical: Both methods flagged
+2014-06-29 19:09:00,91.864,True,True,Critical: Both methods flagged
+2014-06-29 20:09:00,93.934,True,True,Critical: Both methods flagged
+2014-06-29 21:09:00,93.333,True,True,Critical: Both methods flagged
+2014-06-30 00:09:00,93.051,True,True,Critical: Both methods flagged
+2014-06-30 01:09:00,93.167,True,True,Critical: Both methods flagged
+2014-06-30 02:09:00,93.607,True,True,Critical: Both methods flagged
+2014-06-30 04:09:00,94.098,True,True,Critical: Both methods flagged
+2014-06-30 06:09:00,92.667,True,True,Critical: Both methods flagged
+2014-06-30 07:09:00,93.0,True,True,Critical: Both methods flagged
+2014-06-30 08:09:00,93.934,True,True,Critical: Both methods flagged
+2014-06-30 09:09:00,93.0,True,True,Critical: Both methods flagged
+2014-06-30 11:09:00,93.115,True,True,Critical: Both methods flagged
+2014-06-30 12:09:00,93.22,True,True,Critical: Both methods flagged
+2014-06-30 13:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-30 15:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-30 16:09:00,93.167,True,True,Critical: Both methods flagged
+2014-06-30 17:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-30 18:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-30 19:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-30 20:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-30 21:09:00,100.0,True,True,Critical: Both methods flagged
+2014-06-30 22:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-01 00:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-01 01:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-01 02:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-01 03:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-01 05:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-01 07:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-01 08:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-01 10:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-01 12:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-01 13:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-01 14:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-01 16:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-01 17:44:00,72.78399999999998,True,False,Warning: Statistical threshold
+2014-07-01 17:49:00,100.0,True,True,Critical: Both methods flagged
+2014-07-01 18:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-01 19:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-01 20:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-01 21:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-01 22:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-01 23:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-02 00:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-02 01:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-02 04:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-02 05:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-02 06:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-02 07:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-02 08:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-02 09:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-02 10:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-02 11:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-02 13:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-02 14:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-02 15:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-02 16:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-02 18:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-02 19:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-02 20:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-02 21:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-02 22:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-03 00:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-03 02:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-03 03:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-03 04:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-03 08:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-03 09:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-03 10:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-03 11:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-03 12:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-03 13:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-03 15:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-03 16:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-03 17:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-03 19:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-03 20:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-03 21:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-03 22:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-04 00:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-04 01:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-04 04:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-04 05:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-04 06:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-04 07:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-04 08:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-04 09:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-04 10:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-04 12:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-04 13:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-04 14:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-04 16:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-04 17:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-04 17:14:00,72.6,True,False,Warning: Statistical threshold
+2014-07-04 18:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-04 19:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-04 20:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-04 21:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-04 22:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-04 22:14:00,73.104,True,False,Warning: Statistical threshold
+2014-07-04 23:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-05 00:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-05 00:14:00,71.833,True,False,Warning: Statistical threshold
+2014-07-05 01:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-05 01:14:00,72.833,True,False,Warning: Statistical threshold
+2014-07-05 03:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-05 03:14:00,72.0,True,False,Warning: Statistical threshold
+2014-07-05 05:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-05 05:14:00,71.714,True,False,Warning: Statistical threshold
+2014-07-05 07:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-05 07:14:00,72.0,True,False,Warning: Statistical threshold
+2014-07-05 08:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-05 08:14:00,72.833,True,False,Warning: Statistical threshold
+2014-07-05 09:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-05 09:14:00,71.827,True,False,Warning: Statistical threshold
+2014-07-05 10:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-05 10:14:00,71.833,True,False,Warning: Statistical threshold
+2014-07-05 11:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-05 12:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-05 12:14:00,72.5,True,False,Warning: Statistical threshold
+2014-07-05 13:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-05 13:14:00,72.5,True,False,Warning: Statistical threshold
+2014-07-05 14:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-05 14:14:00,72.001,True,False,Warning: Statistical threshold
+2014-07-05 15:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-05 15:14:00,72.911,True,False,Warning: Statistical threshold
+2014-07-05 16:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-05 16:14:00,72.047,True,False,Warning: Statistical threshold
+2014-07-05 17:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-05 17:14:00,72.0,True,False,Warning: Statistical threshold
+2014-07-05 18:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-05 18:14:00,71.666,True,False,Warning: Statistical threshold
+2014-07-05 20:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-05 20:14:00,71.882,True,False,Warning: Statistical threshold
+2014-07-05 22:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-05 22:14:00,72.666,True,False,Warning: Statistical threshold
+2014-07-05 23:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-05 23:14:00,73.107,True,False,Warning: Statistical threshold
+2014-07-06 01:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-06 01:14:00,72.465,True,False,Warning: Statistical threshold
+2014-07-06 03:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-06 03:14:00,71.668,True,False,Warning: Statistical threshold
+2014-07-06 04:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-06 04:14:00,72.833,True,False,Warning: Statistical threshold
+2014-07-06 05:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-06 05:14:00,73.333,True,False,Warning: Statistical threshold
+2014-07-06 06:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-06 06:14:00,73.259,True,False,Warning: Statistical threshold
+2014-07-06 07:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-06 07:14:00,71.999,True,False,Warning: Statistical threshold
+2014-07-06 09:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-06 09:14:00,73.115,True,False,Warning: Statistical threshold
+2014-07-06 10:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-06 10:14:00,71.738,True,False,Warning: Statistical threshold
+2014-07-06 11:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-06 11:14:00,72.824,True,False,Warning: Statistical threshold
+2014-07-06 12:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-06 12:14:00,72.0,True,False,Warning: Statistical threshold
+2014-07-06 13:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-06 13:14:00,72.312,True,False,Warning: Statistical threshold
+2014-07-06 14:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-06 14:14:00,71.214,True,False,Warning: Statistical threshold
+2014-07-06 16:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-06 16:14:00,72.28699999999998,True,False,Warning: Statistical threshold
+2014-07-06 18:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-06 18:14:00,71.542,True,False,Warning: Statistical threshold
+2014-07-06 19:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-06 19:14:00,71.833,True,False,Warning: Statistical threshold
+2014-07-06 20:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-06 20:14:00,71.545,True,False,Warning: Statistical threshold
+2014-07-06 22:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-06 22:14:00,72.207,True,False,Warning: Statistical threshold
+2014-07-06 23:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-06 23:14:00,72.047,True,False,Warning: Statistical threshold
+2014-07-07 00:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-07 00:14:00,72.666,True,False,Warning: Statistical threshold
+2014-07-07 01:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-07 01:14:00,72.333,True,False,Warning: Statistical threshold
+2014-07-07 03:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-07 03:14:00,71.29,True,False,Warning: Statistical threshold
+2014-07-07 04:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-07 04:14:00,71.333,True,False,Warning: Statistical threshold
+2014-07-07 05:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-07 05:14:00,72.617,True,False,Warning: Statistical threshold
+2014-07-07 06:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-07 06:14:00,73.44,True,False,Warning: Statistical threshold
+2014-07-07 08:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-07 08:14:00,72.167,True,False,Warning: Statistical threshold
+2014-07-07 10:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-07 10:14:00,72.218,True,False,Warning: Statistical threshold
+2014-07-07 11:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-07 11:14:00,71.384,True,False,Warning: Statistical threshold
+2014-07-07 12:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-07 12:14:00,72.166,True,False,Warning: Statistical threshold
+2014-07-07 13:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-07 13:14:00,72.12,True,False,Warning: Statistical threshold
+2014-07-07 17:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-07 17:14:00,72.167,True,False,Warning: Statistical threshold
+2014-07-07 19:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-07 19:14:00,71.834,True,False,Warning: Statistical threshold
+2014-07-07 20:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-07 20:14:00,72.214,True,False,Warning: Statistical threshold
+2014-07-07 21:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-07 21:14:00,72.832,True,False,Warning: Statistical threshold
+2014-07-07 23:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-07 23:14:00,72.66,True,False,Warning: Statistical threshold
+2014-07-08 00:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-08 00:14:00,72.506,True,False,Warning: Statistical threshold
+2014-07-08 01:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-08 01:14:00,70.78399999999998,True,False,Warning: Statistical threshold
+2014-07-08 02:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-08 02:14:00,71.714,True,False,Warning: Statistical threshold
+2014-07-08 04:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-08 04:14:00,72.0,True,False,Warning: Statistical threshold
+2014-07-08 05:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-08 05:14:00,72.597,True,False,Warning: Statistical threshold
+2014-07-08 06:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-08 06:14:00,72.048,True,False,Warning: Statistical threshold
+2014-07-08 07:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-08 07:14:00,71.542,True,False,Warning: Statistical threshold
+2014-07-08 09:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-08 09:14:00,71.321,True,False,Warning: Statistical threshold
+2014-07-08 10:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-08 10:14:00,71.78699999999998,True,False,Warning: Statistical threshold
+2014-07-08 11:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-08 11:14:00,72.0,True,False,Warning: Statistical threshold
+2014-07-08 12:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-08 12:14:00,72.765,True,False,Warning: Statistical threshold
+2014-07-08 13:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-08 13:14:00,71.882,True,False,Warning: Statistical threshold
+2014-07-08 14:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-08 14:14:00,71.0,True,False,Warning: Statistical threshold
+2014-07-08 15:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-08 15:14:00,72.499,True,False,Warning: Statistical threshold
+2014-07-08 18:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-08 18:14:00,71.712,True,False,Warning: Statistical threshold
+2014-07-08 19:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-08 19:14:00,72.09899999999998,True,False,Warning: Statistical threshold
+2014-07-08 20:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-08 20:14:00,72.0,True,False,Warning: Statistical threshold
+2014-07-08 23:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-08 23:14:00,73.471,True,False,Warning: Statistical threshold
+2014-07-09 00:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-09 00:14:00,72.166,True,False,Warning: Statistical threshold
+2014-07-09 01:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-09 01:14:00,71.834,True,False,Warning: Statistical threshold
+2014-07-09 02:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-09 02:14:00,71.671,True,False,Warning: Statistical threshold
+2014-07-09 03:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-09 03:14:00,71.539,True,False,Warning: Statistical threshold
+2014-07-09 05:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-09 05:14:00,73.095,True,False,Warning: Statistical threshold
+2014-07-09 06:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-09 06:14:00,71.881,True,False,Warning: Statistical threshold
+2014-07-09 07:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-09 07:14:00,72.324,True,False,Warning: Statistical threshold
+2014-07-09 08:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-09 08:14:00,72.167,True,False,Warning: Statistical threshold
+2014-07-09 09:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-09 09:14:00,71.999,True,False,Warning: Statistical threshold
+2014-07-09 10:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-09 10:14:00,72.218,True,False,Warning: Statistical threshold
+2014-07-09 11:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-09 11:14:00,71.5,True,False,Warning: Statistical threshold
+2014-07-09 12:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-09 12:14:00,72.152,True,False,Warning: Statistical threshold
+2014-07-09 13:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-09 13:14:00,72.211,True,False,Warning: Statistical threshold
+2014-07-09 15:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-09 15:14:00,72.666,True,False,Warning: Statistical threshold
+2014-07-09 19:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-09 19:14:00,72.333,True,False,Warning: Statistical threshold
+2014-07-09 21:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-09 21:14:00,72.118,True,False,Warning: Statistical threshold
+2014-07-09 22:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-09 22:14:00,73.118,True,False,Warning: Statistical threshold
+2014-07-09 23:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-09 23:14:00,71.502,True,False,Warning: Statistical threshold
+2014-07-10 01:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-10 01:14:00,72.167,True,False,Warning: Statistical threshold
+2014-07-10 03:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-10 03:14:00,72.048,True,False,Warning: Statistical threshold
+2014-07-10 05:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-10 05:14:00,71.833,True,False,Warning: Statistical threshold
+2014-07-10 06:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-10 06:14:00,72.167,True,False,Warning: Statistical threshold
+2014-07-10 08:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-10 08:14:00,73.281,True,False,Warning: Statistical threshold
+2014-07-10 10:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-10 10:14:00,72.214,True,False,Warning: Statistical threshold
+2014-07-10 11:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-10 11:14:00,72.0,True,False,Warning: Statistical threshold
+2014-07-10 13:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-10 13:14:00,72.454,True,False,Warning: Statistical threshold
+2014-07-10 15:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-10 15:14:00,73.5,True,False,Warning: Statistical threshold
+2014-07-10 16:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-10 16:14:00,72.5,True,False,Warning: Statistical threshold
+2014-07-10 17:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-10 17:14:00,73.759,True,False,Warning: Statistical threshold
+2014-07-10 20:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-10 20:14:00,72.166,True,False,Warning: Statistical threshold
+2014-07-10 22:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-10 22:14:00,72.166,True,False,Warning: Statistical threshold
+2014-07-10 23:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-10 23:14:00,72.167,True,False,Warning: Statistical threshold
+2014-07-11 00:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-11 00:14:00,71.98,True,False,Warning: Statistical threshold
+2014-07-11 01:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-11 01:14:00,72.333,True,False,Warning: Statistical threshold
+2014-07-11 02:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-11 02:14:00,72.454,True,False,Warning: Statistical threshold
+2014-07-11 04:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-11 04:14:00,71.666,True,False,Warning: Statistical threshold
+2014-07-11 05:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-11 05:14:00,72.215,True,False,Warning: Statistical threshold
+2014-07-11 07:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-11 07:14:00,72.042,True,False,Warning: Statistical threshold
+2014-07-11 09:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-11 09:14:00,71.668,True,False,Warning: Statistical threshold
+2014-07-11 10:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-11 10:14:00,72.315,True,False,Warning: Statistical threshold
+2014-07-11 11:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-11 11:14:00,72.043,True,False,Warning: Statistical threshold
+2014-07-11 12:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-11 12:14:00,73.477,True,False,Warning: Statistical threshold
+2014-07-11 13:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-11 13:14:00,71.711,True,False,Warning: Statistical threshold
+2014-07-11 14:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-11 14:14:00,71.881,True,False,Warning: Statistical threshold
+2014-07-11 15:09:00,72.499,True,False,Warning: Statistical threshold
+2014-07-11 16:09:00,71.666,True,False,Warning: Statistical threshold
+2014-07-11 17:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-11 17:14:00,85.666,True,True,Critical: Both methods flagged
+2014-07-11 18:09:00,71.499,True,False,Warning: Statistical threshold
+2014-07-11 19:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-11 19:14:00,86.618,True,True,Critical: Both methods flagged
+2014-07-11 19:44:00,72.047,True,False,Warning: Statistical threshold
+2014-07-11 19:49:00,100.0,True,True,Critical: Both methods flagged
+2014-07-11 20:09:00,71.384,True,False,Warning: Statistical threshold
+2014-07-11 21:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-11 21:14:00,86.5,True,True,Critical: Both methods flagged
+2014-07-11 22:09:00,71.453,True,False,Warning: Statistical threshold
+2014-07-11 23:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-11 23:14:00,92.833,True,True,Critical: Both methods flagged
+2014-07-12 00:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-12 00:14:00,93.559,True,True,Critical: Both methods flagged
+2014-07-12 01:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-12 01:14:00,95.1113,True,True,Critical: Both methods flagged
+2014-07-12 01:44:00,74.2207,True,False,Warning: Statistical threshold
+2014-07-12 02:09:00,92.767,True,True,Critical: Both methods flagged
+2014-07-12 02:14:00,89.46799999999998,True,True,Critical: Both methods flagged
+2014-07-12 03:09:00,93.274,True,True,Critical: Both methods flagged
+2014-07-12 03:14:00,91.162,True,True,Critical: Both methods flagged
+2014-07-12 03:34:00,73.74600000000002,True,False,Warning: Statistical threshold
+2014-07-12 04:04:00,71.165,True,False,Warning: Statistical threshold
+2014-07-12 05:24:00,71.9987,True,False,Warning: Statistical threshold
+2014-07-12 07:09:00,99.0,True,True,Critical: Both methods flagged
+2014-07-12 07:14:00,90.834,True,True,Critical: Both methods flagged
+2014-07-12 07:19:00,76.1427,True,False,Warning: Statistical threshold
+2014-07-12 08:09:00,92.543,True,True,Critical: Both methods flagged
+2014-07-12 08:14:00,91.027,True,True,Critical: Both methods flagged
+2014-07-12 10:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-12 10:14:00,73.935,True,False,Warning: Statistical threshold
+2014-07-12 12:09:00,71.37899999999998,True,False,Warning: Statistical threshold
+2014-07-12 12:24:00,76.1133,True,False,Warning: Statistical threshold
+2014-07-12 13:09:00,88.24799999999998,True,True,Critical: Both methods flagged
+2014-07-12 14:09:00,93.77,True,True,Critical: Both methods flagged
+2014-07-12 14:14:00,91.4927,True,True,Critical: Both methods flagged
+2014-07-12 15:09:00,91.875,True,True,Critical: Both methods flagged
+2014-07-12 15:14:00,81.513,True,True,Critical: Both methods flagged
+2014-07-12 15:24:00,74.1478,True,False,Warning: Statistical threshold
+2014-07-12 15:54:00,75.4433,True,False,Warning: Statistical threshold
+2014-07-12 16:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-12 17:04:00,79.6667,True,True,Critical: Both methods flagged
+2014-07-12 17:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-12 17:14:00,90.722,True,True,Critical: Both methods flagged
+2014-07-12 17:34:00,73.1313,True,False,Warning: Statistical threshold
+2014-07-12 17:49:00,76.0,True,False,Warning: Statistical threshold
+2014-07-12 18:19:00,75.778,True,False,Warning: Statistical threshold
+2014-07-12 20:09:00,93.833,True,True,Critical: Both methods flagged
+2014-07-12 20:14:00,92.4583,True,True,Critical: Both methods flagged
+2014-07-12 21:04:00,71.384,True,False,Warning: Statistical threshold
+2014-07-12 21:09:00,92.667,True,True,Critical: Both methods flagged
+2014-07-12 21:14:00,90.456,True,True,Critical: Both methods flagged
+2014-07-12 21:19:00,76.366,True,False,Warning: Statistical threshold
+2014-07-12 21:34:00,75.639,True,False,Warning: Statistical threshold
+2014-07-12 22:04:00,78.3887,True,False,Warning: Statistical threshold
+2014-07-12 22:09:00,88.5,True,True,Critical: Both methods flagged
+2014-07-12 22:34:00,74.30199999999998,True,False,Warning: Statistical threshold
+2014-07-12 23:09:00,88.5,True,True,Critical: Both methods flagged
+2014-07-12 23:59:00,72.4707,True,False,Warning: Statistical threshold
+2014-07-13 01:09:00,78.75,True,False,Warning: Statistical threshold
+2014-07-13 01:14:00,88.167,True,True,Critical: Both methods flagged
+2014-07-13 01:24:00,71.73100000000002,True,False,Warning: Statistical threshold
+2014-07-13 02:09:00,71.875,True,False,Warning: Statistical threshold
+2014-07-13 03:09:00,93.833,True,True,Critical: Both methods flagged
+2014-07-13 04:09:00,94.5,True,True,Critical: Both methods flagged
+2014-07-13 04:14:00,92.667,True,True,Critical: Both methods flagged
+2014-07-13 05:09:00,93.0,True,True,Critical: Both methods flagged
+2014-07-13 05:14:00,89.666,True,True,Critical: Both methods flagged
+2014-07-13 05:34:00,72.142,True,False,Warning: Statistical threshold
+2014-07-13 06:09:00,93.667,True,True,Critical: Both methods flagged
+2014-07-13 07:09:00,93.559,True,True,Critical: Both methods flagged
+2014-07-13 09:44:00,75.612,True,False,Warning: Statistical threshold
+2014-07-13 10:09:00,83.833,True,True,Critical: Both methods flagged
+2014-07-13 10:14:00,86.1667,True,True,Critical: Both methods flagged
+2014-07-13 12:04:00,80.8093,True,True,Critical: Both methods flagged
+2014-07-13 12:09:00,92.203,True,True,Critical: Both methods flagged
+2014-07-13 13:04:00,71.12,True,False,Warning: Statistical threshold
+2014-07-13 13:09:00,69.715,True,False,Warning: Statistical threshold
+2014-07-13 14:09:00,88.667,True,True,Critical: Both methods flagged
+2014-07-13 14:54:00,13.999,False,True,Warning: Isolation Forest
+2014-07-13 15:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-13 17:09:00,91.6663,True,True,Critical: Both methods flagged
+2014-07-13 17:14:00,93.3337,True,True,Critical: Both methods flagged
+2014-07-13 17:54:00,75.858,True,False,Warning: Statistical threshold
+2014-07-13 18:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-13 19:09:00,70.666,True,False,Warning: Statistical threshold
+2014-07-13 20:09:00,92.834,True,True,Critical: Both methods flagged
+2014-07-13 20:14:00,95.222,True,True,Critical: Both methods flagged
+2014-07-13 21:24:00,74.876,True,False,Warning: Statistical threshold
+2014-07-13 21:54:00,74.3043,True,False,Warning: Statistical threshold
+2014-07-13 22:04:00,70.38,True,False,Warning: Statistical threshold
+2014-07-13 22:09:00,80.8887,True,True,Critical: Both methods flagged
+2014-07-13 23:09:00,88.055,True,True,Critical: Both methods flagged
+2014-07-13 23:14:00,87.751,True,True,Critical: Both methods flagged
+2014-07-14 00:09:00,92.4078,True,True,Critical: Both methods flagged
+2014-07-14 00:14:00,74.999,True,False,Warning: Statistical threshold
+2014-07-14 00:24:00,75.6357,True,False,Warning: Statistical threshold
+2014-07-14 00:39:00,69.7787,True,False,Warning: Statistical threshold
+2014-07-14 01:09:00,77.2233,True,False,Warning: Statistical threshold
+2014-07-14 01:24:00,74.3327,True,False,Warning: Statistical threshold
+2014-07-14 02:54:00,74.1977,True,False,Warning: Statistical threshold
+2014-07-14 03:39:00,74.3333,True,False,Warning: Statistical threshold
+2014-07-14 04:09:00,93.125,True,True,Critical: Both methods flagged
+2014-07-14 04:34:00,74.138,True,False,Warning: Statistical threshold
+2014-07-14 05:04:00,21.167,False,True,Warning: Isolation Forest
+2014-07-14 05:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-14 05:14:00,89.507,True,True,Critical: Both methods flagged
+2014-07-14 05:44:00,75.61,True,False,Warning: Statistical threshold
+2014-07-14 07:09:00,93.167,True,True,Critical: Both methods flagged
+2014-07-14 07:14:00,92.4453,True,True,Critical: Both methods flagged
+2014-07-14 08:09:00,93.336,True,True,Critical: Both methods flagged
+2014-07-14 08:14:00,95.222,True,True,Critical: Both methods flagged
+2014-07-14 08:44:00,75.3433,True,False,Warning: Statistical threshold
+2014-07-14 09:29:00,74.5247,True,False,Warning: Statistical threshold
+2014-07-14 10:09:00,92.147,True,True,Critical: Both methods flagged
+2014-07-14 10:14:00,90.4077,True,True,Critical: Both methods flagged
+2014-07-14 11:14:00,74.1147,True,False,Warning: Statistical threshold
+2014-07-14 12:09:00,88.3333,True,True,Critical: Both methods flagged
+2014-07-14 12:14:00,73.907,True,False,Warning: Statistical threshold
+2014-07-14 14:09:00,83.3333,True,True,Critical: Both methods flagged
+2014-07-14 14:14:00,71.869,True,False,Warning: Statistical threshold
+2014-07-14 15:09:00,93.0088,True,True,Critical: Both methods flagged
+2014-07-14 16:09:00,100.0,True,True,Critical: Both methods flagged
+2014-07-14 17:09:00,92.218,True,True,Critical: Both methods flagged
+2014-07-14 17:14:00,92.667,True,True,Critical: Both methods flagged
+2014-07-14 17:29:00,71.384,True,False,Warning: Statistical threshold
+2014-07-14 18:04:00,76.833,True,False,Warning: Statistical threshold
+2014-07-14 18:09:00,98.0,True,True,Critical: Both methods flagged
+2014-07-14 18:14:00,83.333,True,True,Critical: Both methods flagged
+2014-07-14 18:39:00,88.007,True,True,Critical: Both methods flagged
+2014-07-14 18:44:00,98.983,True,True,Critical: Both methods flagged
+2014-07-14 18:49:00,100.0,True,True,Critical: Both methods flagged
+2014-07-14 18:54:00,87.0262,True,True,Critical: Both methods flagged
+2014-07-14 19:24:00,69.7243,True,False,Warning: Statistical threshold
+2014-07-14 19:29:00,73.7773,True,False,Warning: Statistical threshold
+2014-07-14 19:59:00,22.276,False,True,Warning: Isolation Forest
+2014-07-14 20:04:00,14.448,False,True,Warning: Isolation Forest
+2014-07-14 20:09:00,14.839,False,True,Warning: Isolation Forest
+2014-07-14 20:14:00,14.713,False,True,Warning: Isolation Forest
+2014-07-14 20:19:00,14.286,False,True,Warning: Isolation Forest
+2014-07-14 20:24:00,18.214,False,True,Warning: Isolation Forest
+2014-07-14 20:29:00,15.005,False,True,Warning: Isolation Forest
+2014-07-14 20:54:00,17.532,False,True,Warning: Isolation Forest
+2014-07-14 20:59:00,19.259,False,True,Warning: Isolation Forest
+2014-07-14 21:19:00,14.789,False,True,Warning: Isolation Forest
+2014-07-14 21:24:00,15.044,False,True,Warning: Isolation Forest
+2014-07-14 21:29:00,15.623,False,True,Warning: Isolation Forest
+2014-07-14 21:34:00,15.05,False,True,Warning: Isolation Forest
+2014-07-14 21:39:00,15.442,False,True,Warning: Isolation Forest
+2014-07-14 21:44:00,14.714,False,True,Warning: Isolation Forest
+2014-07-14 21:49:00,14.947,False,True,Warning: Isolation Forest
+2014-07-14 21:54:00,14.67,False,True,Warning: Isolation Forest
+2014-07-14 21:59:00,16.148,False,True,Warning: Isolation Forest
+2014-07-14 22:04:00,22.045,False,True,Warning: Isolation Forest
+2014-07-14 22:09:00,19.79,False,True,Warning: Isolation Forest
+2014-07-14 22:14:00,13.031,False,True,Warning: Isolation Forest
+2014-07-14 22:19:00,12.132,False,True,Warning: Isolation Forest
+2014-07-14 22:24:00,12.039,False,True,Warning: Isolation Forest
+2014-07-14 22:29:00,12.663,False,True,Warning: Isolation Forest
+2014-07-14 22:34:00,12.333,False,True,Warning: Isolation Forest
+2014-07-14 22:39:00,12.124,False,True,Warning: Isolation Forest
+2014-07-14 22:44:00,12.837,False,True,Warning: Isolation Forest
+2014-07-14 22:49:00,12.199000000000002,False,True,Warning: Isolation Forest
+2014-07-14 22:54:00,11.954,False,True,Warning: Isolation Forest
+2014-07-14 22:59:00,13.659,False,True,Warning: Isolation Forest
+2014-07-14 23:04:00,19.877,False,True,Warning: Isolation Forest
+2014-07-14 23:09:00,20.004,False,True,Warning: Isolation Forest
+2014-07-14 23:14:00,12.87,False,True,Warning: Isolation Forest
+2014-07-14 23:19:00,12.339,False,True,Warning: Isolation Forest
+2014-07-14 23:24:00,12.135,False,True,Warning: Isolation Forest
+2014-07-14 23:29:00,12.867,False,True,Warning: Isolation Forest
+2014-07-14 23:34:00,11.961,False,True,Warning: Isolation Forest
+2014-07-14 23:39:00,12.373,False,True,Warning: Isolation Forest
+2014-07-14 23:44:00,12.455,False,True,Warning: Isolation Forest
+2014-07-14 23:49:00,12.54,False,True,Warning: Isolation Forest
+2014-07-14 23:54:00,12.339,False,True,Warning: Isolation Forest
+2014-07-14 23:59:00,13.115,False,True,Warning: Isolation Forest
+2014-07-15 00:04:00,19.958,False,True,Warning: Isolation Forest
+2014-07-15 00:09:00,20.213,False,True,Warning: Isolation Forest
+2014-07-15 00:14:00,12.796,False,True,Warning: Isolation Forest
+2014-07-15 00:19:00,12.035,False,True,Warning: Isolation Forest
+2014-07-15 00:24:00,11.958,False,True,Warning: Isolation Forest
+2014-07-15 00:29:00,12.675999999999998,False,True,Warning: Isolation Forest
+2014-07-15 00:34:00,11.838,False,True,Warning: Isolation Forest
+2014-07-15 00:39:00,12.003,False,True,Warning: Isolation Forest
+2014-07-15 00:44:00,12.677,False,True,Warning: Isolation Forest
+2014-07-15 00:49:00,11.837,False,True,Warning: Isolation Forest
+2014-07-15 00:54:00,12.035,False,True,Warning: Isolation Forest
+2014-07-15 00:59:00,13.675,False,True,Warning: Isolation Forest
+2014-07-15 01:04:00,19.5,False,True,Warning: Isolation Forest
+2014-07-15 01:09:00,19.998,False,True,Warning: Isolation Forest
+2014-07-15 01:14:00,12.456,False,True,Warning: Isolation Forest
+2014-07-15 01:19:00,12.196,False,True,Warning: Isolation Forest
+2014-07-15 01:24:00,12.339,False,True,Warning: Isolation Forest
+2014-07-15 01:29:00,12.845,False,True,Warning: Isolation Forest
+2014-07-15 01:34:00,12.337,False,True,Warning: Isolation Forest
+2014-07-15 01:39:00,12.13,False,True,Warning: Isolation Forest
+2014-07-15 01:44:00,12.536,False,True,Warning: Isolation Forest
+2014-07-15 01:49:00,12.166,False,True,Warning: Isolation Forest
+2014-07-15 01:54:00,11.83,False,True,Warning: Isolation Forest
+2014-07-15 01:59:00,13.463,False,True,Warning: Isolation Forest
+2014-07-15 02:04:00,19.66,False,True,Warning: Isolation Forest
+2014-07-15 02:09:00,20.045,False,True,Warning: Isolation Forest
+2014-07-15 02:14:00,12.675999999999998,False,True,Warning: Isolation Forest
+2014-07-15 02:19:00,12.168,False,True,Warning: Isolation Forest
+2014-07-15 02:24:00,11.83,False,True,Warning: Isolation Forest
+2014-07-15 02:29:00,12.666,False,True,Warning: Isolation Forest
+2014-07-15 02:34:00,11.999,False,True,Warning: Isolation Forest
+2014-07-15 02:39:00,12.333,False,True,Warning: Isolation Forest
+2014-07-15 02:44:00,12.667,False,True,Warning: Isolation Forest
+2014-07-15 02:49:00,11.798,False,True,Warning: Isolation Forest
+2014-07-15 02:54:00,11.998,False,True,Warning: Isolation Forest
+2014-07-15 02:59:00,13.351,False,True,Warning: Isolation Forest
+2014-07-15 03:04:00,19.874,False,True,Warning: Isolation Forest
+2014-07-15 03:14:00,13.334,False,True,Warning: Isolation Forest
+2014-07-15 03:19:00,11.612,False,True,Warning: Isolation Forest
+2014-07-15 03:24:00,12.167,False,True,Warning: Isolation Forest
+2014-07-15 03:29:00,20.041,False,True,Warning: Isolation Forest
+2014-07-15 03:34:00,11.669,False,True,Warning: Isolation Forest
+2014-07-15 03:39:00,12.0,False,True,Warning: Isolation Forest
+2014-07-15 03:44:00,12.332,False,True,Warning: Isolation Forest
+2014-07-15 03:49:00,12.17,False,True,Warning: Isolation Forest
+2014-07-15 03:54:00,11.970999999999998,False,True,Warning: Isolation Forest
+2014-07-15 03:59:00,13.334,False,True,Warning: Isolation Forest
+2014-07-15 04:04:00,19.706,False,True,Warning: Isolation Forest
+2014-07-15 04:09:00,20.204,False,True,Warning: Isolation Forest
+2014-07-15 04:14:00,12.661,False,True,Warning: Isolation Forest
+2014-07-15 04:19:00,11.997,False,True,Warning: Isolation Forest
+2014-07-15 04:24:00,11.963,False,True,Warning: Isolation Forest
+2014-07-15 04:29:00,12.667,False,True,Warning: Isolation Forest
+2014-07-15 04:34:00,12.167,False,True,Warning: Isolation Forest
+2014-07-15 04:39:00,11.868,False,True,Warning: Isolation Forest
+2014-07-15 04:44:00,12.464,False,True,Warning: Isolation Forest
+2014-07-15 04:49:00,12.166,False,True,Warning: Isolation Forest
+2014-07-15 04:54:00,12.37,False,True,Warning: Isolation Forest
+2014-07-15 04:59:00,13.169,False,True,Warning: Isolation Forest
+2014-07-15 05:04:00,19.794,False,True,Warning: Isolation Forest
+2014-07-15 05:09:00,19.798,False,True,Warning: Isolation Forest
+2014-07-15 05:14:00,12.664,False,True,Warning: Isolation Forest
+2014-07-15 05:19:00,12.328,False,True,Warning: Isolation Forest
+2014-07-15 05:24:00,12.039,False,True,Warning: Isolation Forest
+2014-07-15 05:29:00,12.468,False,True,Warning: Isolation Forest
+2014-07-15 05:34:00,12.04,False,True,Warning: Isolation Forest
+2014-07-15 05:39:00,11.800999999999998,False,True,Warning: Isolation Forest
+2014-07-15 05:44:00,12.669,False,True,Warning: Isolation Forest
+2014-07-15 05:49:00,12.041,False,True,Warning: Isolation Forest
+2014-07-15 05:54:00,12.17,False,True,Warning: Isolation Forest
+2014-07-15 05:59:00,12.983,False,True,Warning: Isolation Forest
+2014-07-15 06:04:00,19.871,False,True,Warning: Isolation Forest
+2014-07-15 06:09:00,19.997,False,True,Warning: Isolation Forest
+2014-07-15 06:14:00,12.678,False,True,Warning: Isolation Forest
+2014-07-15 06:19:00,12.169,False,True,Warning: Isolation Forest
+2014-07-15 06:24:00,12.296,False,True,Warning: Isolation Forest
+2014-07-15 06:29:00,12.533,False,True,Warning: Isolation Forest
+2014-07-15 06:34:00,12.130999999999998,False,True,Warning: Isolation Forest
+2014-07-15 06:39:00,12.329,False,True,Warning: Isolation Forest
+2014-07-15 06:44:00,12.876,False,True,Warning: Isolation Forest
+2014-07-15 06:49:00,12.169,False,True,Warning: Isolation Forest
+2014-07-15 06:54:00,12.172,False,True,Warning: Isolation Forest
+2014-07-15 06:59:00,13.684,False,True,Warning: Isolation Forest
+2014-07-15 07:04:00,19.837,False,True,Warning: Isolation Forest
+2014-07-15 07:09:00,19.667,False,True,Warning: Isolation Forest
+2014-07-15 07:14:00,12.7,False,True,Warning: Isolation Forest
+2014-07-15 07:19:00,12.132,False,True,Warning: Isolation Forest
+2014-07-15 07:24:00,12.031,False,True,Warning: Isolation Forest
+2014-07-15 07:29:00,12.805,False,True,Warning: Isolation Forest
+2014-07-15 07:34:00,12.208,False,True,Warning: Isolation Forest
+2014-07-15 07:39:00,11.997,False,True,Warning: Isolation Forest
+2014-07-15 07:44:00,12.668,False,True,Warning: Isolation Forest
+2014-07-15 07:49:00,12.135,False,True,Warning: Isolation Forest
+2014-07-15 07:54:00,12.001,False,True,Warning: Isolation Forest
+2014-07-15 07:59:00,13.044,False,True,Warning: Isolation Forest
+2014-07-15 08:04:00,19.664,False,True,Warning: Isolation Forest
+2014-07-15 08:09:00,20.15,False,True,Warning: Isolation Forest
+2014-07-15 08:14:00,12.619000000000002,False,True,Warning: Isolation Forest
+2014-07-15 08:19:00,12.189,False,True,Warning: Isolation Forest
+2014-07-15 08:24:00,11.839,False,True,Warning: Isolation Forest
+2014-07-15 08:29:00,12.961,False,True,Warning: Isolation Forest
+2014-07-15 08:34:00,12.208,False,True,Warning: Isolation Forest
+2014-07-15 08:39:00,11.800999999999998,False,True,Warning: Isolation Forest
+2014-07-15 08:44:00,12.508,False,True,Warning: Isolation Forest
+2014-07-15 08:49:00,12.03,False,True,Warning: Isolation Forest
+2014-07-15 08:54:00,11.991,False,True,Warning: Isolation Forest
+2014-07-15 08:59:00,13.463,False,True,Warning: Isolation Forest
+2014-07-15 09:04:00,19.665,False,True,Warning: Isolation Forest
+2014-07-15 09:09:00,19.796,False,True,Warning: Isolation Forest
+2014-07-15 09:14:00,12.678,False,True,Warning: Isolation Forest
+2014-07-15 09:19:00,12.205,False,True,Warning: Isolation Forest
+2014-07-15 09:24:00,12.17,False,True,Warning: Isolation Forest
+2014-07-15 09:29:00,12.461,False,True,Warning: Isolation Forest
+2014-07-15 09:34:00,12.036,False,True,Warning: Isolation Forest
+2014-07-15 09:39:00,12.171,False,True,Warning: Isolation Forest
+2014-07-15 09:44:00,12.334,False,True,Warning: Isolation Forest
+2014-07-15 09:49:00,11.997,False,True,Warning: Isolation Forest
+2014-07-15 09:54:00,12.17,False,True,Warning: Isolation Forest
+2014-07-15 09:59:00,13.294,False,True,Warning: Isolation Forest
+2014-07-15 10:04:00,19.839,False,True,Warning: Isolation Forest
+2014-07-15 10:09:00,20.127,False,True,Warning: Isolation Forest
+2014-07-15 10:14:00,12.497,False,True,Warning: Isolation Forest
+2014-07-15 10:19:00,11.867,False,True,Warning: Isolation Forest
+2014-07-15 10:24:00,12.005999999999998,False,True,Warning: Isolation Forest
+2014-07-15 10:29:00,12.496,False,True,Warning: Isolation Forest
+2014-07-15 10:34:00,12.167,False,True,Warning: Isolation Forest
+2014-07-15 10:39:00,11.997,False,True,Warning: Isolation Forest
+2014-07-15 10:44:00,12.628,False,True,Warning: Isolation Forest
+2014-07-15 10:49:00,12.035,False,True,Warning: Isolation Forest
+2014-07-15 10:54:00,12.001,False,True,Warning: Isolation Forest
+2014-07-15 10:59:00,13.162,False,True,Warning: Isolation Forest
+2014-07-15 11:04:00,20.131,False,True,Warning: Isolation Forest
+2014-07-15 11:09:00,19.829,False,True,Warning: Isolation Forest
+2014-07-15 11:14:00,12.51,False,True,Warning: Isolation Forest
+2014-07-15 11:19:00,12.168,False,True,Warning: Isolation Forest
+2014-07-15 11:24:00,12.04,False,True,Warning: Isolation Forest
+2014-07-15 11:29:00,12.455,False,True,Warning: Isolation Forest
+2014-07-15 11:34:00,12.542,False,True,Warning: Isolation Forest
+2014-07-15 11:39:00,11.795,False,True,Warning: Isolation Forest
+2014-07-15 11:44:00,12.827,False,True,Warning: Isolation Forest
+2014-07-15 11:49:00,11.529000000000002,False,True,Warning: Isolation Forest
+2014-07-15 11:54:00,12.167,False,True,Warning: Isolation Forest
+2014-07-15 11:59:00,13.168,False,True,Warning: Isolation Forest
+2014-07-15 12:04:00,19.672,False,True,Warning: Isolation Forest
+2014-07-15 12:09:00,19.71,False,True,Warning: Isolation Forest
+2014-07-15 12:14:00,12.824000000000002,False,True,Warning: Isolation Forest
+2014-07-15 12:19:00,12.17,False,True,Warning: Isolation Forest
+2014-07-15 12:24:00,12.0,False,True,Warning: Isolation Forest
+2014-07-15 12:29:00,12.638,False,True,Warning: Isolation Forest
+2014-07-15 12:34:00,12.005,False,True,Warning: Isolation Forest
+2014-07-15 12:39:00,11.875,False,True,Warning: Isolation Forest
+2014-07-15 12:44:00,12.831,False,True,Warning: Isolation Forest
+2014-07-15 12:49:00,11.838,False,True,Warning: Isolation Forest
+2014-07-15 12:54:00,12.299,False,True,Warning: Isolation Forest
+2014-07-15 12:59:00,13.483,False,True,Warning: Isolation Forest
+2014-07-15 13:04:00,19.674,False,True,Warning: Isolation Forest
+2014-07-15 13:09:00,19.997,False,True,Warning: Isolation Forest
+2014-07-15 13:14:00,12.795,False,True,Warning: Isolation Forest
+2014-07-15 13:19:00,12.031,False,True,Warning: Isolation Forest
+2014-07-15 13:24:00,11.966,False,True,Warning: Isolation Forest
+2014-07-15 13:29:00,12.652,False,True,Warning: Isolation Forest
+2014-07-15 13:34:00,12.322,False,True,Warning: Isolation Forest
+2014-07-15 13:39:00,11.69,False,True,Warning: Isolation Forest
+2014-07-15 13:44:00,12.622,False,True,Warning: Isolation Forest
+2014-07-15 13:49:00,12.001,False,True,Warning: Isolation Forest
+2014-07-15 13:54:00,11.869000000000002,False,True,Warning: Isolation Forest
+2014-07-15 13:59:00,13.623,False,True,Warning: Isolation Forest
+2014-07-15 14:04:00,19.702,False,True,Warning: Isolation Forest
+2014-07-15 14:09:00,19.797,False,True,Warning: Isolation Forest
+2014-07-15 14:14:00,12.842,False,True,Warning: Isolation Forest
+2014-07-15 14:19:00,11.994000000000002,False,True,Warning: Isolation Forest
+2014-07-15 14:24:00,11.705,False,True,Warning: Isolation Forest
+2014-07-15 14:29:00,12.633,False,True,Warning: Isolation Forest
+2014-07-15 14:34:00,12.213,False,True,Warning: Isolation Forest
+2014-07-15 14:39:00,12.009,False,True,Warning: Isolation Forest
+2014-07-15 14:44:00,12.675999999999998,False,True,Warning: Isolation Forest
+2014-07-15 14:49:00,12.157,False,True,Warning: Isolation Forest
+2014-07-15 14:54:00,11.993,False,True,Warning: Isolation Forest
+2014-07-15 14:59:00,13.326,False,True,Warning: Isolation Forest
+2014-07-15 15:04:00,19.797,False,True,Warning: Isolation Forest
+2014-07-15 15:09:00,19.83,False,True,Warning: Isolation Forest
+2014-07-15 15:14:00,12.829,False,True,Warning: Isolation Forest
+2014-07-15 15:19:00,12.166,False,True,Warning: Isolation Forest
+2014-07-15 15:24:00,11.994000000000002,False,True,Warning: Isolation Forest
+2014-07-15 15:29:00,12.498,False,True,Warning: Isolation Forest
+2014-07-15 15:34:00,12.132,False,True,Warning: Isolation Forest
+2014-07-15 15:39:00,12.041,False,True,Warning: Isolation Forest
+2014-07-15 15:44:00,12.5,False,True,Warning: Isolation Forest
+2014-07-15 15:49:00,11.961,False,True,Warning: Isolation Forest
+2014-07-15 15:54:00,11.833,False,True,Warning: Isolation Forest
+2014-07-15 15:59:00,13.39,False,True,Warning: Isolation Forest
+2014-07-15 16:04:00,19.63,False,True,Warning: Isolation Forest
+2014-07-15 16:09:00,19.629,False,True,Warning: Isolation Forest
+2014-07-15 16:14:00,12.844,False,True,Warning: Isolation Forest
+2014-07-15 16:19:00,11.828,False,True,Warning: Isolation Forest
+2014-07-15 16:24:00,12.039,False,True,Warning: Isolation Forest
+2014-07-15 16:29:00,12.836,False,True,Warning: Isolation Forest
+2014-07-15 16:34:00,12.124,False,True,Warning: Isolation Forest
+2014-07-15 16:39:00,12.171,False,True,Warning: Isolation Forest
+2014-07-15 16:44:00,12.845999999999998,False,True,Warning: Isolation Forest
+2014-07-15 16:49:00,12.17,False,True,Warning: Isolation Forest
+2014-07-15 16:54:00,12.043,False,True,Warning: Isolation Forest
+2014-07-15 16:59:00,13.498,False,True,Warning: Isolation Forest
+2014-07-15 17:04:00,19.831,False,True,Warning: Isolation Forest
+2014-07-15 17:14:00,12.873,False,True,Warning: Isolation Forest
+2014-07-15 17:19:00,12.129,False,True,Warning: Isolation Forest
